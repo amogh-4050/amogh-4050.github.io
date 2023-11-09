@@ -1,7 +1,28 @@
-# About Me
+<h1 align="Centre">Knock Knock</h1>
 
-# Experience
+## _Who is here_
 
-# Projects
+## Amogh is here
 
-# Socials
+## ~~ohhh!!!!~~
+
+#### I am intested in cfd simulations,cad,cybersecurity
+
+## __How is the josh__
+
+```python
+print("block quotes is used to run code")
+```
+
+|Column 1 | Column 2 |
+|-------- | ---------|
+|   Foo   |    Bar   |
+|   poo   |    car   |
+
+[Github](https://github.com)
+
+[the right tab](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[Forked page](https://github.com/hackerspace-PESU/Markdown101)
+
+
