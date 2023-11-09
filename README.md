@@ -1,4 +1,4 @@
-<h1 align="Centre">Knock Knock</h1>
+<h1 align="Center">Knock Knock</h1>
 
 ## _Who is here_
 
